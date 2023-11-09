@@ -1,19 +1,15 @@
-# Trabalho de análise de dados - IAA
-Durante a cadeira de Inteligência Artificial foi estudado diversos modelos de aprendizado de máquina e técnicas para análise de dados.
+# Data Analysis Project - IAA
+During the Artificial Intelligence course, various machine learning models and data analysis techniques were studied.
 
-## Proposta do Projeto Final
-Foi proposto desenvolver uma abordagem para fazer a predição utilizando um dataset fornecido pelo Professor. 
-Além disso, era necessário gerar um arquivo .csv com as predições. O arquivo que eu consegui como resultado está no "test_LucasFerreira.csv".
-A ideia era obter o máximo de acurácia possível.
+## Final Project Proposal
+The project involved developing an approach to make predictions using a dataset provided by the professor. Additionally, it was required to generate a .csv file with the predictions. The resulting file is named "test_LucasFerreira.csv". The goal was to achieve the highest possible accuracy.
 
 ## Dataset
-O Dataset fornecido são os arquivos "teste.csv" e "treino.csv", para gerá-los, o professor da disciplina fez com que os valores tivessem todos os tipos de erros e complicações que um dataset pode ter para ser manipulado e analisado, visando dificultar o trabalho.
+The provided dataset consists of the files "teste.csv" and "treino.csv". To create them, the professor intentionally introduced various errors and complications typical of datasets to make manipulation and analysis challenging.
 
 ## Notebook
-O trabalho foi desenvolvido utilzando o Google Colab, o notebook se encontra no arquivo "LucasFerreira.ipynb", nele possui a explicação de cada decisão tomada durante o desenvolvimento.
+The project was developed using Google Colab, and the notebook is located in the file "LucasFerreira.ipynb". It contains explanations for each decision made during the development process.
 
-## Conclusão
-Minha abordagem não foi a ideal, visto que utilizei muitos modelos e decidi usar o Voting Classifier, que acaba "juntando" as predições desses modelos.
-O ideal, na minha opinião, seria efetuar um gridSearch de algum modelo, para buscar o melhor ajuste dos hiperparâmetros e focar na otimização do mesmo!
-Porém, como trabalho e exercício, fiquei contente com o meu desempenho.
+## Conclusion
+My approach may not have been ideal since I used many models and decided to use the Voting Classifier, which combines the predictions of these models. In my opinion, the ideal approach would involve performing a grid search on some model to find the best hyperparameter adjustments and focus on optimization. However, as a work and exercise, I am satisfied with my performance.
 
